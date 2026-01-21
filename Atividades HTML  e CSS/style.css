@@ -68,7 +68,10 @@ article{
     font-style:italic;
     text-align:center;
 }
-
+#revelação ul{
+    flex:1;
+    min-width:300px;
+}
 footer{
     border-top:1px solid tomato;
     margin-top:50px;
